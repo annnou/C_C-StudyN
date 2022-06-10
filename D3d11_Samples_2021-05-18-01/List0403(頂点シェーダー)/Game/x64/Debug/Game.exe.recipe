@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\owner\Downloads\drive-download-20220515T135300Z-001\D3d11_Samples_2021-05-18-01\D3d11_Samples_2021-05-18-01\List0403(頂点シェーダー)\x64\Debug\Game.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\owner\Downloads\drive-download-20220515T135300Z-001\D3d11_Samples_2021-05-18-01\D3d11_Samples_2021-05-18-01\List0403(頂点シェーダー)\x64\Debug\BasicVertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
